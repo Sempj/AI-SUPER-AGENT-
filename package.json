@@ -1,0 +1,8 @@
+{
+  "name": "ai-crypto-agent",
+  "version": "1.0.0",
+  "main": "ai_agent.js",
+  "scripts": {
+    "start": "node ai_agent.js"
+  }
+}
